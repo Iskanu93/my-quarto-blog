@@ -1,7 +1,18 @@
 ---
-title: "blog"
+title: Welcome to My Blog
+jupyter:
+  jupytext:
+    text_representation:
+      extension: .qmd
+      format_name: quarto
+      format_version: '1.0'
+      jupytext_version: 1.16.4
+  kernelspec:
+    display_name: R
+    language: R
+    name: ir
 ---
 
-This is a Quarto website.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+- [Finding the Right Path](my-first-post.html)
+
