@@ -1,1 +1,6 @@
-/* css styles */
+.quarto-title {
+  font-weight: 100;             /* Subtitle weight */
+  font-size: 1.5em;                /* Adjust the subtitle size */
+  margin-top: 0; 
+  color: #003153;           
+}
