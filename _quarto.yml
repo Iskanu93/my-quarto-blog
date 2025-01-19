@@ -1,14 +1,16 @@
 project:
   type: website
-
-output-dir: docs
+  output-dir: docs
 
 website:
-  title: ""
-
+  title: "Data Science Blog"
+  navbar:
+    right:
+      - icon: github
+        href: https://github.com/Iskanu93
+        
 format:
   html:
-    page-layout: article
     theme: cosmo
     css: styles.css
     toc: false
