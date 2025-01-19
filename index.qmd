@@ -1,12 +1,11 @@
 ---
 title: "FINDING THE RIGHT PATH"
+subtitle: "The Role of Data Science Across Disciplines and Is It the Right Path for You?"
 author: "Karlygash Zhakupbayeva"
 date: "2025-01-18"
 execute: 
   eval: false
 ---
-
-## The Role of Data Science Across Disciplines and Is It the Right Path for You?
 
 Have you chosen your career path already? Have you considered Data Science as an option? Or maybe you have never heard about Data Science. What if I told you that Data Science is an essential tool that needs to be implemented in your future career plans as well? If you heard that, don't rush to reject the idea that it is necessary for your future career.
 
@@ -19,7 +18,7 @@ This 10-minute article can help you answer the following questions:\
 
 ------------------------------------------------------------------------
 
-## Understanding Data Science
+### Understanding Data Science
 
 First, I want to explain the nature of Data Science. Feel free to skip this section if you are already familiar with it and jump to the **Data Science in Various Disciplines** section.
 
@@ -35,9 +34,9 @@ The tools used in Data Science are not limited to big corporations; they are app
 
 ------------------------------------------------------------------------
 
-## Data Science in Various Disciplines
+### Data Science in Various Disciplines
 
-### Humanities & Social Sciences
+#### Humanities & Social Sciences
 
 Data Science is in demand in humanities subjects, including history and languages. It can even help us conserve languages that are at risk of being lost. A good example is the **Chagatai language**—almost an extinct language of the Turkic language tree.
 
@@ -47,7 +46,7 @@ Fortunately, Data Science techniques such as Natural Language Processing (NLP) o
 
 ------------------------------------------------------------------------
 
-### Business & Economics
+#### Business & Economics
 
 Data Science is already embedded in everyday business activities, from Amazon purchases to Netflix recommendations. But let’s look at an area you are likely to encounter: **banking**.
 
@@ -57,7 +56,7 @@ These insights are presented to decision-makers, who integrate them into busines
 
 ------------------------------------------------------------------------
 
-### Engineering & Technology
+#### Engineering & Technology
 
 Even in well-established fields like engineering, Data Science plays a crucial role. Consider the **oil and gas industry**.
 
@@ -67,7 +66,7 @@ These predictions help companies meet demand while avoiding overproduction or wa
 
 ------------------------------------------------------------------------
 
-### Building a Career in Data Science
+#### Building a Career in Data Science
 
 Data Science is a versatile field, relevant across disciplines—be it humanities, business, or engineering. These examples show the impact Data Science has on solving problems and advancing industries.
 
@@ -77,13 +76,13 @@ Regardless of your choice, reflecting on the importance of Data Science is essen
 
 ------------------------------------------------------------------------
 
-## Final Thoughts
+### Final Thoughts
 
 Choose a career path that aligns with your interests and passion, even as you consider the growing role of Data Science. Whether you aim to preserve languages, optimize business strategies, or innovate in engineering, Data Science can empower you to achieve your goals.
 
 ------------------------------------------------------------------------
 
-## References
+### References
 
 Market Research Report. (2022). Data Science Platform Market by Component (Platform & Services), Business Function (Marketing, Sales, Logistics, & Customer Support), Deployment Mode, Organization Size, Industry Vertical & Region—Global Forecast to 2026 (No. TC 5003). [Link](https://www.marketsandmarkets.com/Market-Reports/data-science-platform-market-21532997.html)
 
